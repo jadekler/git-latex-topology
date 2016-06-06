@@ -1,4 +1,6 @@
 *.log
+*.fls
+*mk
 *.aux
 *.gz
 *.pdf
